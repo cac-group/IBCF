@@ -11,7 +11,7 @@ $IBCF is born of the desire for $IBCX to succeed. Early Cosmonauts and IONians r
 and the excitement of a roadmap vision being delivered. The mission of $IBCF is largely unchanged, in fact it grew.
 $IBCF mechanics and architecture will be explained later, more context & bullshit will be tamped such that the fund
 memetically & technically attracts capital. The second Cosmos index fund will be drastically different than the first.
- he aim of $IBCF is to not rug people. Simply put the biggest failure of $IBCX was rugging people. Many ecosystems show
+ The aim of $IBCF is to not rug people. Simply put the biggest failure of $IBCX was rugging people. Many ecosystems show
 capital will bag hold until literally no end, there seemingly needs to be an end for capital to meaningfully exit. Lol,
 Yes you basically just have to not steal or cheat or lie to your clients and your business in crypto can accel. $CAC knows
 this secret, and can deliver it wholesomely without a promise because we are after all only human.
@@ -32,19 +32,36 @@ passionately. Who better to navigate the seven seas with than a bunch of unruly 
 $CAC, the hunter gatherers of airdrops who divided labor until they evolved into an advanced DAO where only the strongest survive.
 $IBCF's origin in grassroots Cosmonauts extends to it's purpose, to not rug people; everything is built around this focus.
 
+Benefit of IBC-Fund
+  Crypto is a fast moving market. Intense volatility is an active manager's playground, but smart contracts & software can't move as 
+lightning fast as the market can. In order to "find alpha" you need to be able to mimic the natural market. $IBCF was too rigid, and
+governance burdened to effectively find alpha, on top of which it's software bricking actually offset all gains with prinicpal marks.
+$IBCF changes the model entirely by putting the minter first and the manager second, no governance theatre, no promise of riches;
+only a commitment to market exploration & freedom. Ditching the smart contracts $IBCF aims to showcase that delegation can be privately
+arranged, and successfully executed. Discretion is the key principle of $IBCF, the pragmatic realization that a cat with Keplr wallet
+can do a lot of heavy lifting. Cosmos needs more discretion.
+  $IBCF aims to be a low fee, public orientated product. Coming of the people for the people it's best scenario is limit principal 
+losses to price movements and avoid rugs entirely. With limited liabilities and no infrastructure the operations learn from $ION DAO
+and other publicly funded goods to charter a benevolent ship with good mates & lasses. Scalability & decentralization are the 
+trade-offs sacrificed in this trilemma. Small scale microcosm is where innovation can be most likely, this kernel leads $IBCF to
+embody as many niches as the community can think of / demand reasonably. The benefit of passive optionality is entirely unexplored in
+Cosmos and IBC-Fund may deploy long/short strategies or long-only, each fund can be specific & non-fungible enabling hyper-optionality.
+
 Product:
-   $IBCF will be target date managed trades. The original fund ($IBCF) tracks Apollo-One which is an unrestricted active trading book.
+   $IBCF will be target date managed trades with non-fungible deliverables. Accounts will be basis by basis. The original fund $IBCF 
+tracks Apollo-One which is an unrestricted active trading book. Other funds' objectives will be detailed in a prospectus soon^tm.
 Some example funds and their trophes follow:
 *IBCA (Airdrops)
 *IBCD (Defi)
 *IBCE (Entertainment)
-*IBCF (First)
+*IBCF (First Fund)
 *IBCG (Gaming)
 *IBCI (AI/DePin)
 *IBCM (Memes)
 *IBCL (Liquid)
 *IBCS (Stables)
-Fund shares will be mintable in 100$ lots, with 3 month expiries and do not consider unstaking times unique to each fund. 
+Fund shares will be mintable in 100$ lots, with 3 month expiries and do not consider unstaking times unique to each fund.
+Convertibility of funds is not planned neither at launch nor in a future product. $IBCF is a custodial 
 
 Fees:
    Fees are sent to the $CAC treasury. A 0.02% creation fee which 50% (0.01%) Creation fee is not reapplied if funds are extended
@@ -52,14 +69,21 @@ past expiry. There is an active management fee of 0.02% APY, this fee is applied
 scam 9-5, and epochs will open & close on Sundays 10pm UTC. The experimental model of $IBCF is not profit driven but purpose 
 driven. The purpose is to index crypto without rugging. Still, it would be unnatural to claim we're not profit oreintated, a 
 0.06% profit sharing fee will also be collected (funds expiring above mint value pay 0.06% of profits). Thanks for playing.
-*Fee Summary - 0.1%
-*0.02% Creation Fee 
-*0.02% APY AUM Fee
-*0.06% Profit Fee
-
-Disclosure:
-These are non-contractual obligations and all funds risk total principal loss. The operator is a cat and the client releases all liability.
-This jargon is necessary to make it crystal clear what always has been the case, this is not a game this is the real world, trust me bro.
+    Fee Summary - 0.20% maximum
+*    0.02% Creation Fee 
+      0.02% APY AUM Fee
+       0.06% Profit Fee
+** 0.10% Early Exit Fee
 
 Operations:
-Funds will be managed 
+Funds will be managed with evolving targets & projections, with each trophe attempting to provide exposure to a niche market.
+Accounts will be created on a per basis frequency, and only with approved parties. Wishfully, NFTs back each fund share someday.
+Approved parties are recognized onchain verification combined with social coordination during the 9-5 for creation and 
+redemptions. Fund creation begins on chain and ends on chain, self-custody is still necessary for $IBCF and loss of keys can 
+disrupt redemptions. Approved parties via signing must confirm primary withdraw address and secondary, prior to minting. 
+
+Disclosure:
+These are experiment products and all funds risk total principal loss. The operator is a cat and the minter releases all liability.
+This jargon is necessary to make it crystal clear what always has been the case, this is not a game this is the real world, trust me bro.
+
+
